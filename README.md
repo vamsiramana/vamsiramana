@@ -2,8 +2,8 @@
 
 MS CS (AI) @ USC · ML Engineer · Researcher
 
-I build at the intersection of ML engineering and applied research —
-production RAG pipelines, agentic AI systems, and ML infrastructure.
+I build at the intersection of ML engineering and applied research, focusing on
+production agentic AI systems, RAG pipelines, and ML infrastructure.
 Currently researching LLM reasoning generalization at
 [INK Lab](https://inklab.usc.edu/) (USC).
 
