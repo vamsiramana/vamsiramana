@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Vamsi
 
-<!--
-**vamsiramana/vamsiramana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS CS (AI) @ USC · ML Engineer · Researcher
 
-Here are some ideas to get you started:
+I build at the intersection of ML engineering and applied research —
+production RAG pipelines, agentic AI systems, and ML infrastructure.
+Currently researching LLM reasoning generalization at
+[INK Lab](https://inklab.usc.edu/) (USC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Background
+
+**Research:** Investigating reasoning generalization in LLMs at INK Lab to improve solution
+flexibility, evaluating across 10+ models (1.7B–232B params) on tasks
+like AIME and ZebraLogic. Multimodal Alzheimer's detection at 98% accuracy
+(MRI + OCT fusion, SAM fine-tuning) and EEG fatigue classification at 94%
+accuracy.
+
+**Industry:** 3+ years at Deloitte building LLM-powered code generation,
+RAG systems over 10K+ files, and a query-aware attention network
+that cut inference latency from 5s to under 500ms.
+
+---
+
+## Currently building
+
+**[brand-guardian](https://github.com/vamsiramana/brand-guardian):**
+LangGraph-orchestrated video compliance QA pipeline. Multimodal ingestion
+via Azure Video Indexer, retrieval-augmented reasoning over regulatory
+rules (Azure AI Search + GPT-4o), with full observability via LangSmith
+and Azure Application Insights.
+
+**[GPU Cluster Workload Analytics](https://github.com/vamsiramana/gpu-cluster-workload-optimizer):**
+Scalable analytics pipeline on Alibaba's GPU Trace v2025 (23K+ inference
+instances). Anomaly detection with Isolation Forest, workload clustering
+by memory and execution patterns, and early job failure prediction via
+XGBoost + MLflow on PySpark.
+
+---
+
+## Stack
+
+`Python` `PyTorch` `LangChain` `vLLM` `HuggingFace` `PySpark` `XGBoost`
+`MLflow` `AWS` `Azure` `FastAPI` `SQL`
+
+---
+
+[LinkedIn](https://linkedin.com/in/vamsi-ramana) · dinavahi@usc.edu
