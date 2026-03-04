@@ -25,7 +25,7 @@ that cut inference latency from 5s to under 500ms.
 
 ## Currently building
 
-**[brand-guardian](https://github.com/vamsiramana/brand-guardian):**
+**[Brand Guardian](https://github.com/vamsiramana/brand-guardian):**
 LangGraph-orchestrated video compliance QA pipeline. Multimodal ingestion
 via Azure Video Indexer, retrieval-augmented reasoning over regulatory
 rules (Azure AI Search + GPT-4o), with full observability via LangSmith
