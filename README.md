@@ -32,8 +32,7 @@ rules (Azure AI Search + GPT-4o), with full observability via LangSmith
 and Azure Application Insights.
 
 **[GPU Cluster Workload Analytics](https://github.com/vamsiramana/gpu-cluster-workload-optimizer):**
-Scalable analytics pipeline on Alibaba's GPU Trace v2025 (23K+ inference
-instances). Anomaly detection with Isolation Forest, workload clustering
+Scalable analytics pipeline on Alibaba's GPU Trace v2020 (1M+ GPU cluster job traces). Anomaly detection with Isolation Forest, workload clustering
 by memory and execution patterns, and early job failure prediction via
 XGBoost + MLflow on PySpark.
 
